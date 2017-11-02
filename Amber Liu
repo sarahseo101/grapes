@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<head>
+  <title>Amber Liu</title>
+  <style>
+    body {
+      text-align: center;
+      background: url("https://yellowslugreviews.files.wordpress.com/2015/05/tumblr_nk5a9ty9xk1u9ke2qo4_500.png");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: helvetica;
+    }
+    p {
+      font-size: 22px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: red;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <img src="https://media.giphy.com/media/8SBfedVprsD3W/source.gif">
+  <h1>Anna Dowlin</h1>
+  <p>Hi! I'm Anna, a NYC-based marketer. Say hello!</p>
+  <input type="email" placeholder="Your email">
+  <input type="submit">
+</body>
